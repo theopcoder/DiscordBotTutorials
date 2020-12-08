@@ -1,0 +1,23 @@
+{
+  "name": "discordbottutorials",
+  "version": "1.0.0",
+  "description": "An example bot to help get you to make your own Discord bot!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/theopcoder/DiscordBotTutorials.git"
+  },
+  "author": "theopcoder",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/theopcoder/DiscordBotTutorials/issues"
+  },
+  "homepage": "https://github.com/theopcoder/DiscordBotTutorials#readme",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "discord.js-commando": "github:discordjs/Commando"
+  }
+}
